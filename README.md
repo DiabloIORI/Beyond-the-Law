@@ -14,7 +14,6 @@ Baldur's Gate Trilogy and EET<h3>
 
 
 **Original Author:** Zyraen  
-**Mod Website:** <a href="http://spellholdstudios.net/ie/btl">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/forum/325-beyond-the-law">Beyond the Law</a><br>
 
 ## 
@@ -74,7 +73,7 @@ BTL also examines many of our concepts of good & evil, right & wrong, justice & 
 - 2 extended BGMs for particular events in the mod.
 - More than 4 cutscenes throughout the mod.
 - No voiced lines just yet.
-- Enhanced Statue of Riddles has been removed, as it has been included under <a href="https://www.pocketplane.net/zyraens-miscellany">Zyraen’s Miscellany Mod</a>.
+- Enhanced Statue of Riddles has been removed, as it has been included under <a href="https://www.pocketplane.net/zyraens-miscellany">Zyraenâ€™s Miscellany Mod</a>.
 </p>
 </details>
 
