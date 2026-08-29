@@ -1172,6 +1172,8 @@ IF
 	ReputationLT(Player1,11)
 	Global("Bad11","LOCALS",0)
 	!ActuallyInCombat()
+	InParty("Kiyone")
+	!Dead("Kiyone")
 THEN 
 	RESPONSE #100
 		StartDialogNoSet(Player1)
@@ -1181,6 +1183,8 @@ IF
 	!StateCheck(Player1,STATE_SLEEPING) 
 	InParty("Kova")
 	!Dead("Kova")
+	InParty("Kiyone")
+	!Dead("Kiyone")
 	ReputationLT(Player1,7)
 	Global("Bad7","LOCALS",0)
 THEN 

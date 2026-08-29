@@ -538,8 +538,8 @@ IF ~!StateCheck(Player1,STATE_SLEEPING)
 ReputationLT(Player1,7)
 InParty("Kova") InMyArea("Kova")
 Global("Bad7","LOCALS",0)~ THEN BEGIN Bad7
-SAY ~I'm afraid that with the deeds I see you commit,I cannot continue in your company further,<CHARNAME>. It will not help my case in the least.~
-~In parting,I thank you for what you have done for myself and Kova,and entreat sincerely to turn from the dark path you now tread.~
+SAY @1955
+= @1956
 IF ~~ THEN DO ~SetGlobal("Bad7","LOCALS",1)
 DropInventory() LeaveParty() EscapeArea()~ EXTERN Z#KOVAJ Bad7
 END
